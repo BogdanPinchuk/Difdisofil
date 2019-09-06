@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Difdisofil.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sCPo" Description="Орієнтація спліт-контейнера вкладки Піксель" Type="System.Windows.Forms.Orientation" Scope="User">
+      <Value Profile="(Default)">Vertical</Value>
+    </Setting>
+    <Setting Name="sCPsd" Description="Відстань спілт-контейнера вкладки Піксель" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">650</Value>
+    </Setting>
+    <Setting Name="FMl" Description="Розташування форми" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">150, 150</Value>
+    </Setting>
+    <Setting Name="FMs" Description="Розмір форми" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">923, 629</Value>
+    </Setting>
+    <Setting Name="sCLsd" Description="Відстань спілт-контейнера вкладки Лінія" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">371</Value>
+    </Setting>
+    <Setting Name="sCLo" Description="Орієнтація спліт-контейнера вкладки Лінія" Type="System.Windows.Forms.Orientation" Scope="User">
+      <Value Profile="(Default)">Horizontal</Value>
+    </Setting>
+    <Setting Name="sCGsd" Description="Відстань спілт-контейнера вкладки Графік і таблиця" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">694</Value>
+    </Setting>
+    <Setting Name="sCGo" Description="Орієнтація спліт-контейнера вкладки Графік і таблиця" Type="System.Windows.Forms.Orientation" Scope="User">
+      <Value Profile="(Default)">Vertical</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
